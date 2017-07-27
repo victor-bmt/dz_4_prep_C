@@ -1,0 +1,13 @@
++string
++line
++school
+-bmstu
+?bauman
+?string
++students
++faculty
+?school
+?class
++struct
+-Default
+-students
